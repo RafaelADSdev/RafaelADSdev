@@ -1,6 +1,6 @@
 ### 🤚🏻Rafael Arcanjo
 
-Olá, meu nome é Rafael Arcanjo. 📚 Estou cursando análise e desenvolvimento de sistemas no Senac PE(03/05).
+Olá, meu nome é Rafael Arcanjo. 📚 Estou cursando análise e desenvolvimento de sistemas no Senac PE(04/05).
 
 <p align="left">
     </a> 
@@ -20,7 +20,7 @@ Olá, meu nome é Rafael Arcanjo. 📚 Estou cursando análise e desenvolvimento
 <a href="https://music.youtube.com/playlist?list=PLbhfoZ4XCw8mLmlBL5gsz3izBKST1YRRU" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
 <a href = "mailto:rafaelarcanjods05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/rafael-arcanjo-0647962a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://discord.gg/DWMaYb7s" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+
 
 
 </p>
