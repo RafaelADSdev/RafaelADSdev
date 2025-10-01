@@ -77,13 +77,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-origi
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AuzendeGBR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=RafaelADSdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
       align="left" 
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuzendeGBR&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelADSdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
