@@ -2,27 +2,6 @@
 
 Olá, meu nome é Rafael Arcanjo. 📚 Estou cursando análise e desenvolvimento de sistemas no Senac PE(04/05).
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/RafaelADSdev">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/AuzendeGBR?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/RafaelADSdev">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/AuzendeGBR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-<a href="https://music.youtube.com/playlist?list=PLbhfoZ4XCw8mLmlBL5gsz3izBKST1YRRU" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
-<a href = "mailto:rafaelarcanjods05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/rafael-arcanjo-0647962a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-
 </p>
 
 ### 🤖 Linguagens e Tecnologias
