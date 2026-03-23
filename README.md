@@ -1,6 +1,6 @@
 ### 🤚🏻Rafael Arcanjo
 
-Olá, meu nome é Rafael Arcanjo. 📚 Estou cursando análise e desenvolvimento de sistemas no Senac PE(04/05).
+Olá, meu nome é Rafael Arcanjo. 📚 Estou cursando análise e desenvolvimento de sistemas no Senac PE(05/05). Estagiando na Hub Nogueira
 
 </p>
 
