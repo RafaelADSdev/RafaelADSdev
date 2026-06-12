@@ -12,11 +12,11 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Senac PE** e atualmente atuo como **estagiário de tecnologia na HubON / Hub Nogueira**.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pelo **Senac PE** e atualmente atuo como **estagiário de tecnologia na HubON / Hub Nogueira**.
 
 Tenho foco em **desenvolvimento web, automações, integrações de sistemas, produtos internos e soluções com inteligência artificial**. Gosto de transformar ideias em projetos práticos, bem documentados e com boa experiência visual.
 
-No meu dia a dia, venho trabalhando e estudando tecnologias como **Next.js, React, Supabase, n8n, Vercel, APIs, Cursor, Codex e ferramentas de IA aplicadas ao desenvolvimento**.
+No meu dia a dia, trabalho e continuo evoluindo com tecnologias como **Next.js, React, Supabase, n8n, Vercel, APIs, Cursor, Codex e ferramentas de IA aplicadas ao desenvolvimento**.
 
 ---
 
