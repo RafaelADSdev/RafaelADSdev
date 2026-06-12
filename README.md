@@ -101,7 +101,7 @@ Tenho foco em **desenvolvimento web, automações, integrações de sistemas e s
 ## 🌐 Contato
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-111?style=for-the-badge&logo=vercel&logoColor=white)](https://rafaelarcanjodev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-arcanjo-0647962a0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/rafaeladsdev)
 [![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelADSdev)
 
 ---
