@@ -40,7 +40,6 @@ Tenho foco em **desenvolvimento web, automações, integrações de sistemas e s
 ![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 
