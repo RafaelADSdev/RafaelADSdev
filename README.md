@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# 👋 Rafael Arcanjo
-
 ### Desenvolvedor Web | Automações, IA e Sistemas Internos
 
 </div>
