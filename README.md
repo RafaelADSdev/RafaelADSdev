@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou Rafael Arcanjo
 
-### Desenvolvedor em formação | Estagiário de Tecnologia | ADS - Senac PE
+### Estagiário de Tecnologia | Desenvolvedor Web | Automações, IA e Sistemas Internos
 
 </div>
 
