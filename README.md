@@ -79,7 +79,7 @@ Tenho foco em **desenvolvimento web, automações, integrações de sistemas e s
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelADSdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelADSdev&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias"/>
-
+[![My GitFut card](https://gitfut.com/rafaelADSdev.png)](https://gitfut.com/rafaelADSdev)
 </div>
 
 ---
