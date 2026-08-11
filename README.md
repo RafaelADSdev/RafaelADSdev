@@ -78,13 +78,18 @@ Tenho foco em **desenvolvimento web, automações, integrações de sistemas e s
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelADSdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117&border_color=5B21B6"/>
+<table>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=RafaelADSdev&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117&border_color=5B21B6"/>
+    </td>
+    <td>
+      <img width="100%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=RafaelADSdev&layout=compact&langs_count=8&custom_title=Tecnologias&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117&border_color=5B21B6"/>
+    </td>
+  </tr>
+</table>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelADSdev&layout=compact&langs_count=8&theme=radical&custom_title=Tecnologias&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117&border_color=5B21B6"/>
-
-<a href="https://gitfut.com/rafaelADSDev">
-  <img alt="My GitFut card" height="170em" src="https://gitfut.com/rafaelADSDev.png"/>
-</a>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelADSdev&theme=radical&background=0D1117&border=5B21B6&stroke=5B21B6&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=C4B5FD"/>
 
 </div>
 
