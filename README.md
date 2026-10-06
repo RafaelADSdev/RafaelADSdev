@@ -2,79 +2,80 @@
 
 <div align="center">
 
-### Desenvolvedor Web | Automações, IA e Sistemas Internos
+### Desenvolvedor Web e Mobile
+
+Sites, sistemas e aplicativos com TypeScript, React, Next.js e React Native.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://rafaeladsdev.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaeladsdev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelADSdev)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Formado em **Análise e Desenvolvimento de Sistemas** pelo **Senac PE**, com experiência em tecnologia na **HubON / Hub Nogueira**.
 
-Tenho foco em **desenvolvimento web, automações, integrações de sistemas e soluções com inteligência artificial**, criando projetos práticos com organização, eficiência e boa experiência de uso.
+Hoje construo interfaces web e aplicativos mobile. No web, o dia a dia é **React**, **Next.js**, **Astro** e **Tailwind CSS**. No mobile, **React Native** com **Expo**. Dados, autenticação e painéis ficam em **Supabase** e **PostgreSQL**, com integrações quando o projeto pede, como **Bitrix24**.
 
-**Aberto a novos projetos** e oportunidades para construir soluções com impacto.
+Aberto a novos projetos e oportunidades.
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## Tecnologias
 
-### Desenvolvimento
+### Web
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Back-end, Dados e APIs
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### Dados e back-end
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs_REST-5B21B6?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
-### Automação e Integrações
+### Integrações e conteúdo
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Bitrix24](https://img.shields.io/badge/Bitrix24-00AEEF?style=for-the-badge&logo=bitrix24&logoColor=white)
-![Evolution API](https://img.shields.io/badge/Evolution_API-5B21B6?style=for-the-badge&logo=whatsapp&logoColor=25D366)
-![Webhooks](https://img.shields.io/badge/Webhooks-5B21B6?style=for-the-badge&logo=webhook&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-### IA, Deploy e Produtividade
+### Qualidade e entrega
 
-![OpenAI](https://img.shields.io/badge/OpenAI-5B21B6?style=for-the-badge&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-5B21B6?style=for-the-badge&logo=cursor&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Design, Documentação e Gestão
+---
 
-![Figma](https://img.shields.io/badge/Figma-5B21B6?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-5B21B6?style=for-the-badge&logo=markdown&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=000)
-
-## 📌 Atuação
+## Atuação
 
 ```txt
-• Desenvolvimento web com React e Next.js
-• Automações com n8n, APIs e webhooks
-• Integração entre sistemas internos, CRM e banco de dados
-• Soluções com IA aplicadas a produtividade e processos
-• Documentação técnica, PRDs e regras de negócio
+• Sites e sistemas web com React, Next.js e Astro
+• Aplicativos mobile com React Native e Expo
+• Painéis, autenticação e dados com Supabase e PostgreSQL
+• Integrações com Bitrix24 e conteúdo com Sanity
+• Testes com Vitest e Playwright
 ```
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
 
@@ -95,7 +96,7 @@ Tenho foco em **desenvolvimento web, automações, integrações de sistemas e s
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 
 <div align="center">
 
@@ -109,17 +110,9 @@ Tenho foco em **desenvolvimento web, automações, integrações de sistemas e s
 
 ---
 
-## 🌐 Contato
-
-[![Portfólio](https://img.shields.io/badge/Portfólio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://rafaeladsdev.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaeladsdev)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelADSdev)
-
----
-
 <div align="center">
 
-### Em constante evolução, construindo soluções com tecnologia.
+Em constante evolução, do site ao aplicativo.
 
 </div>
 
