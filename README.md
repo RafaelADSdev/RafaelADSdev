@@ -8,7 +8,7 @@ Sites, aplicativos e sistemas com TypeScript, React, Next.js e React Native.
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-5B21B6?style=for-the-badge)](https://rafaeladsdev.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rafaeladsdev/)
-[![Ver projetos](https://img.shields.io/badge/Ver_projetos-231438?style=for-the-badge&logo=github&logoColor=D8B4FE)](#projetos-em-destaque)
+[![Ver projetos](https://img.shields.io/badge/Ver_projetos-231438?style=for-the-badge&logo=github&logoColor=D8B4FE)](#user-content-projetos-em-destaque)
 
 </div>
 
