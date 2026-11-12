@@ -9,6 +9,7 @@ Sites, aplicativos e sistemas com TypeScript, React, Next.js e React Native.
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-5B21B6?style=for-the-badge)](https://rafaeladsdev.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rafaeladsdev/)
 [![Ver projetos](https://img.shields.io/badge/Ver_projetos-231438?style=for-the-badge&logo=github&logoColor=D8B4FE)](#user-content-projetos-em-destaque)
+[![Steam](https://img.shields.io/badge/Steam-182D4D?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/AuzendeGBR/)
 
 </div>
 
@@ -22,22 +23,31 @@ Aberto a novos projetos e oportunidades.
 
 <p align="center">
   <a href="https://github.com/RafaelADSdev/prumo"><img width="235" alt="Prumo, visão geral do painel financeiro" src="assets/projetos/prumo.webp"></a>
-  <a href="https://github.com/RafaelADSdev/Cifrio"><img width="235" alt="Cifrio, telas de visão geral e cartões no celular" src="assets/projetos/cifrio.webp"></a>
+  <a href="https://github.com/RafaelADSdev/notionREA"><img width="235" alt="Bloco, caderno de exemplo aberto no editor" src="assets/projetos/bloco.webp"></a>
   <a href="https://github.com/RafaelADSdev/Zelo"><img width="235" alt="Zelo, painel de conexões e modelos de IA" src="assets/projetos/zelo.webp"></a>
 </p>
 
 - **[Prumo](https://github.com/RafaelADSdev/prumo)** organiza receitas, despesas, serviços e veículos, com opção de uso local. `Next.js` · `TypeScript` · `Prisma` · `SQLite`
-- **[Cifrio](https://github.com/RafaelADSdev/Cifrio)** acompanha gastos, contas e faturas no celular. `React Native` · `Expo` · `TypeScript` · `Supabase`
+- **[Bloco](https://github.com/RafaelADSdev/notionREA)** é um caderno de notas com editor em blocos e armazenamento no próprio navegador. `Next.js` · `Tiptap` · `IndexedDB` · [Testar o Bloco](https://bloco-jet.vercel.app/)
 - **[Zelo](https://github.com/RafaelADSdev/Zelo)** reúne atendimento no WhatsApp, assistentes de IA e campanhas com revisão antes do envio. `Node.js` · `Supabase` · `WhatsApp Cloud API`
 
 <details>
 <summary>Mais projetos</summary>
 
-- **[Bloco](https://github.com/RafaelADSdev/notionREA)** é um espaço de trabalho para notas e bases de dados com editor em blocos e armazenamento local no navegador. `Next.js` · `Tiptap` · `IndexedDB` · [Demo do Bloco](https://bloco-jet.vercel.app/)
+- **[Jairo Rocha Imóveis](https://github.com/RafaelADSdev/Jairo-RochaAPP)** é um protótipo Android de catálogo imobiliário com dados do Supabase. `React Native` · `Expo Router` · `Supabase`
 - **[Dashboard Stüpp](https://github.com/RafaelADSdev/Dashboard-St-pp)** acompanha funis de vendas e roletas de distribuição, com transferência de leads em um quadro Kanban. `Next.js` · `Supabase` · `Bitrix24`
 - **[Náutica Engenharia](https://github.com/RafaelADSdev/Nautica-engenharia)** reúne páginas de serviços, cases e um painel editorial. `Astro` · `TypeScript` · `Sanity`
 
 </details>
+
+## Jogos e experimentos
+
+<p align="center">
+  <a href="https://lorremake.vercel.app/"><img width="446" alt="Jogar Runeterra Arena no navegador. Prévia do mapa da campanha" src="assets/jogos/runeterra.webp"></a>
+  <a href="https://steamcommunity.com/id/AuzendeGBR/"><img width="328" alt="AuzendeGBR na Steam, nível 11" src="assets/jogos/steam.webp"></a>
+</p>
+
+**Runeterra · Arena offline** é um projeto de fã com campanha em 10 regiões, editor de decks e duelos contra o bot. `JavaScript` · `WebGL` · `PWA` · [Jogar no navegador](https://lorremake.vercel.app/) · [Ver código](https://github.com/RafaelADSdev/Lor-remake)
 
 ## Tecnologias
 
