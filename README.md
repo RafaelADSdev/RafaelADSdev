@@ -1,18 +1,74 @@
-<picture>
-  <source media="(max-width: 640px)" srcset="./assets/stock-ticker/mobile.webp">
-  <img width="100%" alt="Rafael Arcanjo, $RAFAE. Atividade no GitHub em 26 semanas até 18 de novembro de 2026, com 96 contribuições nos últimos 30 dias e alta de 92% em quatro semanas." src="./assets/stock-ticker/painel.webp">
-</picture>
-
-<sub>As velas mostram a variação semanal do total móvel de 30 dias. As barras mostram as contribuições de cada semana.</sub>
-
-<p align="center">
-  <a href="https://rafaeladsdev.com/">Portfólio</a> ·
-  <a href="https://www.linkedin.com/in/rafaeladsdev/">LinkedIn</a> ·
-  <a href="#carteira-de-projetos">Projetos</a> ·
-  <a href="https://steamcommunity.com/id/AuzendeGBR/">Steam</a>
+<p>
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/stock-ticker/mobile.webp">
+    <img width="100%" alt="$RAFAE. Gráfico de velas das últimas 26 semanas. Cotação visual de US$ 29,70 para 99 contribuições nos últimos 30 dias, alta de 98,0% em quatro semanas." src="./assets/stock-ticker/painel.webp">
+  </picture>
 </p>
 
-## Perfil
+<sub>A cotação visual usa US$ 0,30 por contribuição nos últimos 30 dias. O volume mostra as contribuições por semana. Retrato de 18/11/2026.</sub>
+
+<p>
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/stock-ticker/perfil-mobile.webp">
+    <img width="100%" alt="Perfil de Rafael Arcanjo, desenvolvedor web e mobile de Recife, PE. 20 seguidores, 39 repositórios públicos e 1 estrela." src="./assets/stock-ticker/perfil.webp">
+  </picture>
+</p>
+
+<a name="carteira-de-projetos"></a>
+
+<p>
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/stock-ticker/carteira-mobile.webp">
+    <img width="100%" alt="Carteira de projetos. Commits na branch principal nos últimos 30 dias. Vercuno 8, Prumo 19, Bloco 12, Zelo 58, Cifrio 0 e Portfólio 0. O Portfólio tem 1 estrela." src="./assets/stock-ticker/carteira.webp">
+  </picture>
+</p>
+
+[Vercuno](https://github.com/RafaelADSdev/Vercuno) · [Prumo](https://github.com/RafaelADSdev/prumo) · [Bloco](https://github.com/RafaelADSdev/notionREA) · [Zelo](https://github.com/RafaelADSdev/Zelo) · [Cifrio](https://github.com/RafaelADSdev/Cifrio) · [Portfólio](https://github.com/RafaelADSdev/Site-curriculo-)
+
+<p>
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/stock-ticker/linguagens-mobile.webp">
+    <img width="100%" alt="Linguagens nos repositórios do GitHub. TypeScript 73,04%, JavaScript 8,80%, Rust 7,16%, CSS 3,19%, Swift 3,14%." src="./assets/stock-ticker/linguagens.webp">
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/stock-ticker/volume-mobile.webp">
+    <img width="100%" alt="Mapa de contribuições das últimas 26 semanas. Sequência atual de 4 dias, melhor sequência de 6 dias no período e 361 contribuições no ano." src="./assets/stock-ticker/volume.webp">
+  </picture>
+</p>
+
+<p>
+  <a href="https://rafaeladsdev.com/"><img width="94" alt="Portfólio" src="./assets/stock-ticker/link-portfolio.webp"></a>&nbsp;<a href="https://www.linkedin.com/in/rafaeladsdev/"><img width="96" alt="LinkedIn" src="./assets/stock-ticker/link-linkedin.webp"></a>
+  <a href="#carteira-de-projetos"><img width="92" alt="Projetos" src="./assets/stock-ticker/link-projetos.webp"></a>&nbsp;<a href="https://steamcommunity.com/id/AuzendeGBR/"><img width="83" alt="Steam" src="./assets/stock-ticker/link-steam.webp"></a>
+</p>
+
+**Mobile**  
+![iOS](https://img.shields.io/badge/iOS-17232D?style=flat&logo=apple&logoColor=F6F7FA) ![Android](https://img.shields.io/badge/Android-17232D?style=flat&logo=android&logoColor=91D69D) ![React Native](https://img.shields.io/badge/React%20Native-17232D?style=flat&logo=react&logoColor=7EDAF4) ![Expo](https://img.shields.io/badge/Expo-17232D?style=flat&logo=expo&logoColor=F2F7FB)
+
+<details>
+<summary>Tecnologias e ferramentas</summary>
+
+**Web**  
+![TypeScript](https://img.shields.io/badge/TypeScript-17232D?style=flat&logo=typescript&logoColor=82BFFF) ![JavaScript](https://img.shields.io/badge/JavaScript-17232D?style=flat&logo=javascript&logoColor=F2DF63) ![HTML5](https://img.shields.io/badge/HTML5-17232D?style=flat&logo=html5&logoColor=FE886F) ![CSS](https://img.shields.io/badge/CSS-17232D?style=flat&logo=css&logoColor=BA99DF) ![React](https://img.shields.io/badge/React-17232D?style=flat&logo=react&logoColor=7EDAF4) ![Next.js](https://img.shields.io/badge/Next.js-17232D?style=flat&logo=nextdotjs&logoColor=F0F5FA) ![Astro](https://img.shields.io/badge/Astro-17232D?style=flat&logo=astro&logoColor=FDA884) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-17232D?style=flat&logo=tailwindcss&logoColor=75D9EF) ![Three.js](https://img.shields.io/badge/Three.js-17232D?style=flat&logo=threedotjs&logoColor=FFFFFF) ![Lucide](https://img.shields.io/badge/Lucide-17232D?style=flat&logo=lucide&logoColor=FCA48C) ![Recharts](https://img.shields.io/badge/Recharts-17232D?style=flat) ![Tiptap](https://img.shields.io/badge/Tiptap-17232D?style=flat) ![Yjs](https://img.shields.io/badge/Yjs-17232D?style=flat)
+
+**Mobile**  
+![Expo Router](https://img.shields.io/badge/Expo%20Router-17232D?style=flat&logo=expo&logoColor=F0F5FA) ![React Native Reanimated](https://img.shields.io/badge/React%20Native%20Reanimated-17232D?style=flat&logo=react&logoColor=7EDAF4)
+
+**Back-end e dados**  
+![Node.js](https://img.shields.io/badge/Node.js-17232D?style=flat&logo=nodedotjs&logoColor=9BE680) ![Supabase](https://img.shields.io/badge/Supabase-17232D?style=flat&logo=supabase&logoColor=70DBA7) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17232D?style=flat&logo=postgresql&logoColor=A3C8EE) ![Prisma](https://img.shields.io/badge/Prisma-17232D?style=flat&logo=prisma&logoColor=C7B9F8) ![SQLite](https://img.shields.io/badge/SQLite-17232D?style=flat&logo=sqlite&logoColor=8DD5FC) ![Zod](https://img.shields.io/badge/Zod-17232D?style=flat&logo=zod&logoColor=94BBFA) ![DBeaver](https://img.shields.io/badge/DBeaver-17232D?style=flat&logo=dbeaver&logoColor=E5C697) ![IndexedDB](https://img.shields.io/badge/IndexedDB-17232D?style=flat)
+
+**Integrações e conteúdo**  
+![Bitrix24](https://img.shields.io/badge/Bitrix24-17232D?style=flat) ![n8n](https://img.shields.io/badge/n8n-17232D?style=flat&logo=n8n&logoColor=F78E9E) ![Sanity](https://img.shields.io/badge/Sanity-17232D?style=flat&logo=sanity&logoColor=FA967F) ![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp%20Cloud%20API-17232D?style=flat&logo=whatsapp&logoColor=84E6A1)
+
+**Testes e entrega**  
+![Vitest](https://img.shields.io/badge/Vitest-17232D?style=flat&logo=vitest&logoColor=B8D989) ![Playwright](https://img.shields.io/badge/Playwright-17232D?style=flat) ![Biome](https://img.shields.io/badge/Biome-17232D?style=flat&logo=biome&logoColor=80ADF2) ![Prettier](https://img.shields.io/badge/Prettier-17232D?style=flat&logo=prettier&logoColor=F4CE7E) ![esbuild](https://img.shields.io/badge/esbuild-17232D?style=flat&logo=esbuild&logoColor=F2DA65) ![npm](https://img.shields.io/badge/npm-17232D?style=flat&logo=npm&logoColor=FC9F9A) ![Git](https://img.shields.io/badge/Git-17232D?style=flat&logo=git&logoColor=F99A80) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-17232D?style=flat&logo=githubactions&logoColor=9AC9F8) ![Vercel](https://img.shields.io/badge/Vercel-17232D?style=flat&logo=vercel&logoColor=F2F7FB)
+
+</details>
+
+<details>
+<summary>Sobre mim</summary>
 
 Sou **Rafael Arcanjo**, desenvolvedor web e mobile em Recife, PE. Crio sites, aplicativos e sistemas com TypeScript, React, Next.js e React Native.
 
@@ -20,14 +76,19 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** pelo **Senac PE**. Na 
 
 Estou aberto a novos projetos e oportunidades.
 
-## Carteira de projetos
+</details>
 
-| Código | Projeto | O que faz |
-| :--- | :--- | :--- |
-| `VERC` | [Vercuno](https://github.com/RafaelADSdev/Vercuno) | Site de serviços e portfólio de landing pages, sites institucionais e sistemas web. `Next.js` · `TypeScript` |
-| `PRUM` | [Prumo](https://github.com/RafaelADSdev/prumo) | Painel para receitas, despesas, serviços e veículos, com opção de uso local. `Next.js` · `Prisma` · `SQLite` |
-| `BLOC` | [Bloco](https://github.com/RafaelADSdev/notionREA) | Caderno com editor em blocos e dados salvos no navegador. `Next.js` · `Tiptap` · `IndexedDB` · [Demo](https://bloco-jet.vercel.app/) |
-| `ZELO` | [Zelo](https://github.com/RafaelADSdev/Zelo) | Atendimento pelo WhatsApp, assistentes de IA e revisão de campanhas antes do envio. `Node.js` · `Supabase` · `WhatsApp Cloud API` |
+<details>
+<summary>Sobre os projetos</summary>
+
+- **[Vercuno](https://github.com/RafaelADSdev/Vercuno)** apresenta serviços e cases de landing pages, sites institucionais e sistemas web.
+- **[Prumo](https://github.com/RafaelADSdev/prumo)** organiza receitas, despesas, serviços e veículos em um painel com opção de uso local.
+- **[Bloco](https://github.com/RafaelADSdev/notionREA)** oferece um editor de notas em blocos com armazenamento no navegador. [Testar o Bloco](https://bloco-jet.vercel.app/)
+- **[Zelo](https://github.com/RafaelADSdev/Zelo)** reúne atendimento pelo WhatsApp, assistentes de IA e revisão de campanhas.
+- **[Cifrio](https://github.com/RafaelADSdev/Cifrio)** é um aplicativo de finanças pessoais feito com React Native e Expo, com exportação para iOS e Android.
+- **[Portfólio](https://github.com/RafaelADSdev/Site-curriculo-)** reúne formação, experiência e projetos em português e inglês.
+
+</details>
 
 <details>
 <summary>Capturas dos projetos</summary>
@@ -49,17 +110,8 @@ Estou aberto a novos projetos e oportunidades.
 
 </details>
 
-## Tecnologias
-
-| Área | Ferramentas |
-| :--- | :--- |
-| Web | `TypeScript` · `JavaScript` · `React` · `Next.js` · `Astro` · `Tailwind CSS` · `Three.js` |
-| Mobile | `React Native` · `Expo` |
-| Back-end e dados | `Node.js` · `Supabase` · `PostgreSQL` · `Prisma` · `SQLite` · `Zod` · `DBeaver` |
-| Integrações e conteúdo | `Bitrix24` · `n8n` · `Sanity` |
-| Testes e entrega | `Vitest` · `Playwright` · `Vercel` · `GitHub Actions` |
-
-## Contribuições
+<details>
+<summary>Animação de contribuições, estatísticas e jogos</summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelADSdev/RafaelADSdev/output/github-contribution-grid-snake-dark.svg">
@@ -91,6 +143,8 @@ Estou aberto a novos projetos e oportunidades.
 </p>
 
 **Runeterra · Arena offline** é um projeto de fã com campanha em 10 regiões, editor de decks e duelos contra o bot. `JavaScript` · `WebGL` · `PWA` · [Jogar no navegador](https://lorremake.vercel.app/) · [Ver código](https://github.com/RafaelADSdev/Lor-remake)
+
+</details>
 
 </details>
 
