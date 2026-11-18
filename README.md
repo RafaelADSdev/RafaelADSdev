@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<sub>A cotação visual usa US$ 0,30 por contribuição nos últimos 30 dias. O volume mostra as contribuições por semana. Retrato de 18/11/2026.</sub>
+<sub>A cotação visual usa US$ 0,30 por contribuição nos últimos 30 dias. As barras mostram as contribuições por semana. O gráfico e o mapa têm atualização automática programada a cada 30 minutos.</sub>
 
 <p>
   <picture>
