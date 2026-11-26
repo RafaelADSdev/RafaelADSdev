@@ -1,7 +1,7 @@
 <p>
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/stock-ticker/mobile.webp">
-    <img width="100%" alt="$RAFAE. Gráfico de velas das últimas 26 semanas. Cotação visual de US$ 34,80 para 116 contribuições nos últimos 30 dias. Há quatro semanas, o total em 30 dias era de 51. Dados até 25/11/2026." src="./assets/stock-ticker/painel.webp">
+    <img width="100%" alt="$RAFAE. Gráfico de velas das últimas 26 semanas. Cotação visual de US$ 34,50 para 115 contribuições nos últimos 30 dias. Há quatro semanas, o total em 30 dias era de 51. Dados até 26/11/2026." src="./assets/stock-ticker/painel.webp">
   </picture>
 </p>
 
@@ -35,7 +35,7 @@
 <p>
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/stock-ticker/volume-mobile.webp">
-    <img width="100%" alt="Mapa de contribuições das últimas 26 semanas. Sequência atual de 2 dias, melhor sequência de 7 dias no período e 404 contribuições no ano. Dados até 25/11/2026." src="./assets/stock-ticker/volume.webp">
+    <img width="100%" alt="Mapa de contribuições das últimas 26 semanas. Sequência atual de 2 dias, melhor sequência de 7 dias no período e 404 contribuições no ano. Dados até 26/11/2026." src="./assets/stock-ticker/volume.webp">
   </picture>
 </p>
 
